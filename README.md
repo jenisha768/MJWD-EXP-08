@@ -1,7 +1,7 @@
 # EXPERIMENT 8: REACT USER INTERACTIONS – onChange AND onSubmit
 
-**Name:** HANIEL REENA D R  
-**Register Number:** 2305001008  
+**Name:** JENISHA TEENA ROSE F  
+**Register Number:** 2305001010  
 **Department:** CSE
 
 ## 1. AIM
